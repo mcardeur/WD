@@ -294,6 +294,7 @@ background-color: black;
 }
 
 @media (max-width: 350px) {
-
-
+	.parralax {
+		width:100%
+	}
 }
