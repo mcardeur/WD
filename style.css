@@ -278,18 +278,27 @@ background-color: black;
 }
 
 @media (max-width: 960px) {
-
+.parralax {
+		width:100%
+	}
 }
 
 @media (max-width: 720px) {
-
+.parralax {
+		width:100%
+	}
 }
 
 @media (max-width: 500px) {
-
+.parralax {
+		width:100%
+	}
 }
 
 @media (max-width: 450px) {
+	.parralax {
+		width:100%
+	}
 
 }
 
